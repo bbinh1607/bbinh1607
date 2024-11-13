@@ -75,19 +75,19 @@
 
 ###
 
-<img align="left" height="" src="https://i.pinimg.com/originals/94/ea/c8/94eac835763ea2c2b63c069cedbed22f.gif"  />
+<img align="left" height="100" src="https://i.pinimg.com/originals/94/ea/c8/94eac835763ea2c2b63c069cedbed22f.gif"  />
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/98/20/e0/9820e0804785c1a4401cd5afaf485906.gif"  />
+<img align="left" height="100" src="https://i.pinimg.com/originals/98/20/e0/9820e0804785c1a4401cd5afaf485906.gif"  />
 
 ###
 
-<img align="left" height="73" src="https://i.pinimg.com/originals/ae/a7/2c/aea72c4777a405dde87b7741b8a8552a.gif"  />
+<img align="left" height="100" src="https://i.pinimg.com/originals/ae/a7/2c/aea72c4777a405dde87b7741b8a8552a.gif"  />
 
 ###
 
-<img align="left" height="77" src="https://i.pinimg.com/originals/25/9c/86/259c864a71a80f08b71064965774d6dd.gif"  />
+<img align="left" height="100" src="https://i.pinimg.com/originals/25/9c/86/259c864a71a80f08b71064965774d6dd.gif"  />
 
 ###
 
